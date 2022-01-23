@@ -32,10 +32,11 @@ The election results are also saved in this file [Election Results](election_res
 This python code is fantastic because it can be used to review any election results with a few minor adjustments to the coded.
 Below are a couple of screen shots showing what sections would need some updating
 - This section of the code can be updated to retrieve any .csv file to run through the script
+![](https://github.com/aikopsidas/election_analysis/blob/ba17141b22ab1970244b3c2e94158041abffd235/after_file_to_load.PNG)
 
 
 - Depending on which columns hold the data to be used in the script, the below items many need to be updated
-
+![](https://github.com/aikopsidas/election_analysis/blob/ba17141b22ab1970244b3c2e94158041abffd235/row_change.PNG)
 
 
 
